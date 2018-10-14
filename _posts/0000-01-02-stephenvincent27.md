@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Once a father, always a father.
+BHAG.
 Use the left arrow to go back!
